@@ -1,0 +1,1 @@
+[{"id":"17cdc983.331ea6","type":"rpi-gpio in","z":"18590b7c.26d495","name":"Button","pin":"11","intype":"tri","debounce":"25","read":false,"x":180,"y":760,"wires":[["c180d672.fc3d08"]]},{"id":"c180d672.fc3d08","type":"rpi-gpio out","z":"18590b7c.26d495","name":"LED","pin":"7","set":"","level":"0","freq":"","out":"out","x":360,"y":820,"wires":[]}]
